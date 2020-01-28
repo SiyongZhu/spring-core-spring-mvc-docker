@@ -34,6 +34,11 @@
 ehthumbs.db
 Thumbs.db
 
+#  Eclipse generated files #
+############################
+.settings/
+
+
 .project
 .classpath
 .idea
